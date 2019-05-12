@@ -31,7 +31,7 @@ export default class Score extends Component {
     case "correct":
       return "Alright! You guessed correctly!";
     case "incorrect":
-      return "oh...You guessed incorrectly!";
+      return "oh...nooo, you guessed incorrectly!";
     default:
       return "Click an image to begin! Don't click an image more than once!";
     }
