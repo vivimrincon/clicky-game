@@ -1,8 +1,8 @@
 import React from 'react'; //React
-import TopNav from './components/TopNav';
+import ClickyGame from './components/ClickyGame';
 
  export default function App() {
   return (
-    <TopNav />
+    <ClickyGame />
   );
 }

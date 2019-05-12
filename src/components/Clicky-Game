@@ -1,2 +1,0 @@
-import React, { Component } from "react";
-import TopNav from './TopNav'; //Top Navigation bar with the score display
