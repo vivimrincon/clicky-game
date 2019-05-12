@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "image": "/assets/images/bobbelcher.jpg",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "/assets/images/gayle.png",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "/assets/images/genebelcher.jpg",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "/assets/images/lindabelcher.jpg",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "/assets/images/louisebelcher.jpg",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "/assets/images/mort.jpg",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "/assets/images/tammy.jpg",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "/assets/images/teddy.jpg",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "/assets/images/tinabelcher.jpg",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "/assets/images/zeke.jpg",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "/assets/images/CalvinFischoeder.jpg",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "/assets/images/DrYap.jpg",
+      "clicked": false
+    }
+  ]
+  
