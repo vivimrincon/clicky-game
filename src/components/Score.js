@@ -1,7 +1,8 @@
 import React, { Component } from "react";
+import '../styles/score.css';
 
 //  lets the user know if they were correct of not
-// called into TopNav.js'''
+// called into TopNav.js
 
 export default class Score extends Component {
   state = {
@@ -47,5 +48,3 @@ export default class Score extends Component {
     );
   }
 }
-
-//export default Score;

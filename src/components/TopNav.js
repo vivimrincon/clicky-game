@@ -1,15 +1,15 @@
 import React from "react";
+import '../styles/topnav.css';
 import ScoreMessage from './Score';
 
 // Component Navbar
+//Works with Score.js
 
  export default function TopNav(props) {
   return (
     <nav className="navbar">
       <ul>
-        <li className="brand">
-          <a href="/">Clicky Game</a>
-        </li>
+        <li>Clicky Game</li>
         <ScoreMessage score={props.score} topScore={props.topScore} />
         <li>
           Score: {props.score} | Top Score: {props.topScore}
