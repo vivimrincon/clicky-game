@@ -1,14 +1,16 @@
 import React, { Component } from "react";
 import TopNav from './TopNav'; //Top Navigation bar with the score display
-import Container from './Main'; // Image as children.
-import ClickImage from './ClickImage'; //clickablt images
-import data from '../data.json';
+import Container from './Main'; // Main section where the images will display.
+import ClickImage from './ClickImage'; // making clickablt images
+import data from '../data.json'; //images in assets placed into a json array
+
+//clickygame gathers all the other componenets and sets the states.
 
 export default class ClickyGame extends Component {
   state = {
     data,
     score: 0,
-    topscore: 0
+    topScore: 0
   };
 
   componentDidMount() {

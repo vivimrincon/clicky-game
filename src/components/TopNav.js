@@ -2,7 +2,7 @@ import React from "react";
 import '../styles/topnav.css';
 import ScoreMessage from './Score';
 
-// Component Navbar
+// Component Navbar sets props from clickygame.js into score.js
 //Works with Score.js
 
  export default function TopNav(props) {
@@ -19,4 +19,4 @@ import ScoreMessage from './Score';
   );
 }
 
-// export default TopNav;
+// index -> app -> ClickyGame -> TopNav -> Score
