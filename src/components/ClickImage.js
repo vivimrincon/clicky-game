@@ -1,4 +1,5 @@
 import React from "react";
+import '../styles/click.css';
 
  export default function ClickImage(props) {
   return (
